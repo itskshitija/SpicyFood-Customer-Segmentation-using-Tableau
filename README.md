@@ -1,6 +1,19 @@
 # SpicyFood - Customer Segmentation: RFM Analysis using Tableau
 
 ## Overview
+This project focuses on creating a Customer Segmentation Dashboard for SpicyFood Management using Tableau. The goal is to classify customers into meaningful segments based on their purchasing behavior and demographics, enabling the business to make informed, data-driven decisions.
+
+Using the RFM (Recency, Frequency, Monetary) model, customers are grouped into categories such as Champions, Loyal Customers, Potential Loyalists, Promising, and At Risk, among others. These segments provide insights into customer value, engagement, and retention opportunities.
+
+The analysis incorporates factors like age, customer tiers, and average bill per customer to better understand customer patterns. The provided dataset includes essential details like Customer ID, Purchase Frequency, Bill Amount, Recency, and other relevant attributes.
+
+The final Tableau dashboard delivers an interactive and visually appealing representation of these insights, helping SpicyFood Management to:
+- Identify high-value customers.
+- Re-engage at-risk customers.
+- Enhance retention strategies.
+- Optimize marketing campaigns.
+
+## Introduction
 This project involves **RFM Analysis (Recency, Frequency, and Monetary)** to segment customers based on their purchase behavior and provide actionable insights for better business decisions. The analysis is visualized using an interactive **Tableau Dashboard**.
 
 ## [View My Tableau Dashboard](https://public.tableau.com/views/Kshitija_SpicyFood_Dashboard1_6/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
