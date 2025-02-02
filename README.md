@@ -1,4 +1,4 @@
-# Customer Segmentation: RFM Analysis using Tableau
+# SpicyFood - Customer Segmentation: RFM Analysis using Tableau
 
 ## Overview
 This project involves **RFM Analysis (Recency, Frequency, and Monetary)** to segment customers based on their purchase behavior and provide actionable insights for better business decisions. The analysis is visualized using an interactive **Tableau Dashboard**.
