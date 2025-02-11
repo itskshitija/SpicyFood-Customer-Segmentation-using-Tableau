@@ -1,4 +1,4 @@
-# SpicyFood - Customer Segmentation: RFM Analysis using Tableau
+# 😋SpicyFood - Customer Segmentation: RFM Analysis using Tableau
 
 ## Overview
 This project focuses on creating a Customer Segmentation Dashboard for SpicyFood Management using Tableau. The goal is to classify customers into meaningful segments based on their purchasing behavior and demographics, enabling the business to make informed, data-driven decisions.
@@ -13,15 +13,15 @@ The final Tableau dashboard delivers an interactive and visually appealing repre
 - Enhance retention strategies.
 - Optimize marketing campaigns.
 
-## Introduction
+## 📌Introduction
 This project involves **RFM Analysis (Recency, Frequency, and Monetary)** to segment customers based on their purchase behavior and provide actionable insights for better business decisions. The analysis is visualized using an interactive **Tableau Dashboard**.
 
 ## [View My Tableau Dashboard](https://public.tableau.com/views/Kshitija_SpicyFood_Dashboard1_6/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-### Dashboard Preview
+### 📊Dashboard Preview
 ![Dashboard](https://github.com/user-attachments/assets/b7eed9cd-73c2-463e-a880-4ca653fdc91a)
 
-## Dataset Description
+## 🔠Dataset Description
 The dataset used for this analysis includes the following fields:
 - **Customer ID**: Unique identifier for each customer.
 - **Purchase Frequency**: The number of purchases a customer makes.
@@ -36,12 +36,12 @@ The dataset used for this analysis includes the following fields:
 - **Gender**: Gender of the customer.
 - **Age**: Age of the customer.
   
-## Project Objectives
+## 📍Project Objectives
 - Perform RFM segmentation to categorize customers into groups such as **Champions, Loyal Customers, Potential Loyalist, Promising, At Risk**.
 - Visualize customer segmentation using an interactive Tableau dashboard.
 - Provide insights to help businesses understand customer behavior and improve decision-making.
 
-## Features of the Tableau Dashboard
+## 🚀Features of the Tableau Dashboard
 1. **Customer Segmentation Overview**:
    - Visual representation of customer tiers.
    - Insights on high-value vs. low-value customers.
@@ -50,11 +50,6 @@ The dataset used for this analysis includes the following fields:
    - Drill-down options for specific customer segments.
 3. **Demographics Insights**:
    - Breakdown by gender and age groups.
-
-## How to Use
-1. Open the [Tableau Dashboard](https://public.tableau.com/views/Kshitija_SpicyFood_Dashboard1_6/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
-2. Interact with the visualizations to explore customer segments.
-3. Use filters to customize the view based on demographics or RFM tiers.
    
 ## Acknowledgments
 - Dataset: The dataset was provided as part of a case study to analyze customer behavior.
