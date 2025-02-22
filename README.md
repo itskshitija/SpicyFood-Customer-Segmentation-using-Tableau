@@ -50,12 +50,8 @@ The dataset used for this analysis includes the following fields:
    - Drill-down options for specific customer segments.
 3. **Demographics Insights**:
    - Breakdown by gender and age groups.
-   
-## Acknowledgments
-- Dataset: The dataset was provided as part of a case study to analyze customer behavior.
-- Tools: Thanks to Tableau Public for enabling interactive visualizations.
-
-## Insights
+ 
+## 📊🍜Insights
 
 ### Customer Segmentation Breakdown
 - #### Champions
