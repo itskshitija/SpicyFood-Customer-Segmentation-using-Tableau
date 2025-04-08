@@ -1,4 +1,7 @@
+![25553c40-cf0a-43da-93d7-97eec0f8048c](https://github.com/user-attachments/assets/4c8aec06-e55c-466c-9d46-6c9dfa8cdbdd)
+
 # 😋SpicyFood - Customer Segmentation: RFM Analysis using Tableau
+
 
 ## Checkout my medium article [Here](https://medium.com/@kshitijachilbule2/spicyfood-exploring-customer-segmentation-with-a-tableau-dashboard-1167eed99ca2)
 
