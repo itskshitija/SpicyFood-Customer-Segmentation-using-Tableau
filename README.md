@@ -1,6 +1,6 @@
 # 😋SpicyFood - Customer Segmentation: RFM Analysis using Tableau
 
-## Checkout my medium article [Here](https://medium.com/@kshitijachilbule2/spicyfood-exploring-customer-segmentation-with-a-tableau-dashboard-f1b64a9e5cc0)
+## Checkout my medium article [Here](https://medium.com/@kshitijachilbule2/spicyfood-exploring-customer-segmentation-with-a-tableau-dashboard-1167eed99ca2)
 
 ## Overview
 This project focuses on creating a Customer Segmentation Dashboard for SpicyFood Management using Tableau. The goal is to classify customers into meaningful segments based on their purchasing behavior and demographics, enabling the business to make informed, data-driven decisions.
